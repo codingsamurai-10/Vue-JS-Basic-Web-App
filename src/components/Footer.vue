@@ -1,3 +1,4 @@
+// not part of current project
 <template>
   <footer>
       <slot name="title"></slot>

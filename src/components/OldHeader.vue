@@ -1,3 +1,4 @@
+// not part of current project
 <template>
     <header>
         <h1 v-on:click="changeTitle">{{ title }}</h1>
